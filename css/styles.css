@@ -837,6 +837,6 @@ footer .container {
 }
 
 .modal-btn:focus,
-:hover {
+.modal-btn:hover {
   color: var(--main-accent-color);
 }
