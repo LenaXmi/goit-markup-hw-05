@@ -354,12 +354,12 @@ margin-left: 50px;
   opacity: 1;
   transform: translateY(0);
 }
-/* 
+
 .grid-link:focus .overlay-text {
   opacity: 1;
   transform: translateY(0);
   outline: none;
-} */
+}
 
 .grid-item {
   margin-left: 30px;
@@ -372,7 +372,6 @@ margin-left: 50px;
 .grid-link {
   display: block;
   text-decoration: none;
-  color: var(--main-text-color);
 }
 
 .grid-item-border {
@@ -517,6 +516,7 @@ margin-left: 50px;
   font-size: 18px;
   line-height: 2;
   letter-spacing: 0.06em;
+  color: var(--main-text-color);
 }
 
 .description {
